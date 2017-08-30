@@ -3,6 +3,8 @@
 <img src="docs/DracoLogo.jpeg" />
 </p>
 
+[![Build Status](https://travis-ci.org/google/draco.svg?branch=master)](https://travis-ci.org/google/draco)
+
 News
 =======
 ### Version 1.0.0 release
